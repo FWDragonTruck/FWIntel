@@ -4,8 +4,9 @@ const googleAnalyticsTrackingId = process.env.GOOGLE_ANALYTICS_ID
 const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
+  pathPrefix: "/FWIntel",
   siteMetadata: {
-    siteTitleAlt: `Jodie - Gatsby Starter Portfolio`,
+    siteTitleAlt: `Maps and Intel for Firewall: Zero Hour`,
   },
   flags: {
     FAST_DEV: true,

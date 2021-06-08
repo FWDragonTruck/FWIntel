@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Starter Portfolio: Jodie
+  Firewall: Zero Hour Intel
 </h1>
 
 <p align="center">
